@@ -1,0 +1,10 @@
+Package: somedata
+Type: Package
+Title: A Small Collection of Data
+Version: 0.1
+Date: 2015-12-20
+Authors@R: person("Ken", "Butler", email = "butler@utsc.utoronto.ca", role = c("aut", "cre"))
+Description: Some randomly collected data sets.
+License: CC0
+LazyData: TRUE
+RoxygenNote: 5.0.1
